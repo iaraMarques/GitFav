@@ -51,6 +51,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br/>
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/SzQA07HwmSPj4hOYgu1Pps/%5BDesafios-Explorer%5D-GitFav/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. 
+<div>
+  <img align="centeer" alt"FIGMA" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+</div>
+
 
 ## :memo: Licença
 
